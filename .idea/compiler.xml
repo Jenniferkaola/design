@@ -7,7 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="single" />
+        <module name="factory-method" />
         <module name="strategy" />
+        <module name="spring-ioc" />
+        <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
   </component>

@@ -10,4 +10,9 @@ package com.jennifer;
 public interface Comparator<T> {
 
     int compare(T o1,T o2);
+
+    //java1.8后支持实现方法 加default后实现类可以不用继承该接口
+    default void m(){
+        System.out.println("m");
+    }
 }
