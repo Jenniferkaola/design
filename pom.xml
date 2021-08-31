@@ -16,6 +16,8 @@
         <module>spring-ioc</module>
         <module>design-patterns</module>
         <module>chain-responsibility</module>
+        <module>observer</module>
+        <module>proxy</module>
     </modules>
 
     <properties>
