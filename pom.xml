@@ -18,6 +18,7 @@
         <module>chain-responsibility</module>
         <module>observer</module>
         <module>proxy</module>
+        <module>iterator</module>
     </modules>
 
     <properties>
